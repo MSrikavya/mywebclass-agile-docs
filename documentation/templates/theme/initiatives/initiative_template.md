@@ -1,6 +1,6 @@
 "Building Web Development Learning Website"
 
-Description: This initiative involves the development of a web development learning website that provides users with an interactive and comprehensive learning experience. The website will offer a variety of courses, tutorials, and resources to help users learn web development skills and improve their coding abilities.
+Description: This initiative aims to create a web-based learning platform with a user-friendly interface that provides users with an engaging and effective learning experience. The platform will offer diverse courses, interactive tutorials, and practical resources that cater to various skill levels, enabling users to learn web development skills and improve their coding abilities in a structured and personalized manner.
 
 Goals: 1. To provide users with an engaging and interactive web development learning experience.
        2. To optimize the website for ease of use, accessibility, and performance.
