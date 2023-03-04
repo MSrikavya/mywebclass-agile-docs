@@ -16,7 +16,7 @@ Dependencies: 1. Availability of design resources and expertise.
 Risks: 1. The design may not meet the needs and preferences of all users.
        2. There may be technical challenges in ensuring the website is fully accessible.
 
-Estimated Effort: 2-3 months of design and development time.
+Estimated Effort: 2 months of design and development time.
 
 Business Value: A well-designed and accessible user interface will help attract and retain users, increasing engagement and potentially driving revenue.
 
