@@ -1,17 +1,23 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
-
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
-
-"As a customer, I want to view my order history so that I can track my past purchases."
+1. "As a user, I want a simple and intuitive navigation menu so that I can quickly access different sections of the website."
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+The navigation menu should be prominently displayed on the website and easily accessible from any page.
+The menu should be organized logically and include links to all important sections of the website.
+The menu should be easy to understand and use, even for first-time visitors to the website.
+The menu should be responsive and adapt to different screen sizes, including desktop and mobile devices.
+The menu should be visually appealing and consistent with the overall design of the website.
+
+2. "As a user, I want a search bar so that I can quickly find specific information or topics on the website."
+
+Acceptance Criteria:
+
+The search bar must be visible on every page of the website
+The search bar must be located in a prominent location, such as the header or sidebar
+The search bar must return relevant results for search queries
+The search bar must have the ability to filter search results by category or topic
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. As a user, I want a simple and intuitive navigation menu so that I can quickly access different sections of the website.
+2. As a user, I want a search bar so that I can quickly find specific information or topics on the website.
